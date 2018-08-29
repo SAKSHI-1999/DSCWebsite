@@ -1,0 +1,10 @@
+{"name": "DSC Website",
+  "short_name": "DSC",
+  "start_url": ".",
+  "display": "fullscreen",
+  "description": "DSC Website",
+  "related_applications": [{
+    "platform": "web",
+    "url":""
+  }]
+}
